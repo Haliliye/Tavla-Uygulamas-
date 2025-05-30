@@ -1,0 +1,16 @@
+C:\Users\EXCALIBUR\Downloads\Tavla-Oyun-main (1)\Tavla-Oyun-main\Backgammon-master\Backgammon-master\BackgammonWinformView\obj\Debug\BackgammonWinformView.csproj.AssemblyReference.cache
+C:\Users\EXCALIBUR\Downloads\Tavla-Oyun-main (1)\Tavla-Oyun-main\Backgammon-master\Backgammon-master\BackgammonWinformView\bin\Debug\BaslangicForm.resx
+C:\Users\EXCALIBUR\Downloads\Tavla-Oyun-main (1)\Tavla-Oyun-main\Backgammon-master\Backgammon-master\BackgammonWinformView\bin\Debug\BackgammonForm.resx
+C:\Users\EXCALIBUR\Downloads\Tavla-Oyun-main (1)\Tavla-Oyun-main\Backgammon-master\Backgammon-master\BackgammonWinformView\bin\Debug\BackgammonWinformView.exe.config
+C:\Users\EXCALIBUR\Downloads\Tavla-Oyun-main (1)\Tavla-Oyun-main\Backgammon-master\Backgammon-master\BackgammonWinformView\bin\Debug\BackgammonWinformView.exe
+C:\Users\EXCALIBUR\Downloads\Tavla-Oyun-main (1)\Tavla-Oyun-main\Backgammon-master\Backgammon-master\BackgammonWinformView\bin\Debug\BackgammonWinformView.pdb
+C:\Users\EXCALIBUR\Downloads\Tavla-Oyun-main (1)\Tavla-Oyun-main\Backgammon-master\Backgammon-master\BackgammonWinformView\bin\Debug\BackgammonLogic.dll
+C:\Users\EXCALIBUR\Downloads\Tavla-Oyun-main (1)\Tavla-Oyun-main\Backgammon-master\Backgammon-master\BackgammonWinformView\bin\Debug\BackgammonLogic.pdb
+C:\Users\EXCALIBUR\Downloads\Tavla-Oyun-main (1)\Tavla-Oyun-main\Backgammon-master\Backgammon-master\BackgammonWinformView\obj\Debug\BackgammonWinformView.BackgammonForm.resources
+C:\Users\EXCALIBUR\Downloads\Tavla-Oyun-main (1)\Tavla-Oyun-main\Backgammon-master\Backgammon-master\BackgammonWinformView\obj\Debug\BackgammonWinformView.BaslangicForm.resources
+C:\Users\EXCALIBUR\Downloads\Tavla-Oyun-main (1)\Tavla-Oyun-main\Backgammon-master\Backgammon-master\BackgammonWinformView\obj\Debug\BackgammonWinformView.Properties.Resources.resources
+C:\Users\EXCALIBUR\Downloads\Tavla-Oyun-main (1)\Tavla-Oyun-main\Backgammon-master\Backgammon-master\BackgammonWinformView\obj\Debug\BackgammonWinformView.csproj.GenerateResource.cache
+C:\Users\EXCALIBUR\Downloads\Tavla-Oyun-main (1)\Tavla-Oyun-main\Backgammon-master\Backgammon-master\BackgammonWinformView\obj\Debug\BackgammonWinformView.csproj.CoreCompileInputs.cache
+C:\Users\EXCALIBUR\Downloads\Tavla-Oyun-main (1)\Tavla-Oyun-main\Backgammon-master\Backgammon-master\BackgammonWinformView\obj\Debug\BackgammonWinformView.csproj.CopyComplete
+C:\Users\EXCALIBUR\Downloads\Tavla-Oyun-main (1)\Tavla-Oyun-main\Backgammon-master\Backgammon-master\BackgammonWinformView\obj\Debug\BackgammonWinformView.exe
+C:\Users\EXCALIBUR\Downloads\Tavla-Oyun-main (1)\Tavla-Oyun-main\Backgammon-master\Backgammon-master\BackgammonWinformView\obj\Debug\BackgammonWinformView.pdb

@@ -1,0 +1,6 @@
+C:\Users\EXCALIBUR\Downloads\Tavla-Oyun-main (1)\Tavla-Oyun-main\Backgammon-master\Backgammon-master\BackgammonLogic\bin\Debug\BackgammonLogic.dll
+C:\Users\EXCALIBUR\Downloads\Tavla-Oyun-main (1)\Tavla-Oyun-main\Backgammon-master\Backgammon-master\BackgammonLogic\bin\Debug\BackgammonLogic.pdb
+C:\Users\EXCALIBUR\Downloads\Tavla-Oyun-main (1)\Tavla-Oyun-main\Backgammon-master\Backgammon-master\BackgammonLogic\obj\Debug\BackgammonLogic.csproj.AssemblyReference.cache
+C:\Users\EXCALIBUR\Downloads\Tavla-Oyun-main (1)\Tavla-Oyun-main\Backgammon-master\Backgammon-master\BackgammonLogic\obj\Debug\BackgammonLogic.csproj.CoreCompileInputs.cache
+C:\Users\EXCALIBUR\Downloads\Tavla-Oyun-main (1)\Tavla-Oyun-main\Backgammon-master\Backgammon-master\BackgammonLogic\obj\Debug\BackgammonLogic.dll
+C:\Users\EXCALIBUR\Downloads\Tavla-Oyun-main (1)\Tavla-Oyun-main\Backgammon-master\Backgammon-master\BackgammonLogic\obj\Debug\BackgammonLogic.pdb
